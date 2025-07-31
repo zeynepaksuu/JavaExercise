@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3333a86-56eb-4cad-92fc-04da72f0e378" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/DateAPIExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/CarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/DateAPIExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/DateAPIExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -47,7 +50,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Array2Example.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CarTest.executor": "Run",
     "Application.DateAPIExample.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.MethodTest.executor": "Run",
+    "Application.PalindromNumberExample.executor": "Run",
+    "Application.PasswordValidation.executor": "Run",
+    "Application.ReversedStringExample.executor": "Run",
+    "Application.RoundingNumbers.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -102,6 +114,10 @@
           <line>27</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

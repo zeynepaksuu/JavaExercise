@@ -23,4 +23,4 @@ public class DateAPIExample {
         System.out.println("ileri tarih: " +localDate);
     }
 }
-// this file can not be abled compile, it will be update
+// this file can not be abled compile, it will be updated
