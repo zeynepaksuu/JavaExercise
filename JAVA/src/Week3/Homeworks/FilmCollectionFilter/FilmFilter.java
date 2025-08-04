@@ -1,4 +1,4 @@
-package Week3.Homerworks.FilmCollectionFilter;
+package Week3.Homeworks.FilmCollectionFilter;
 
 import java.util.ArrayList;
 import java.util.Collections;
