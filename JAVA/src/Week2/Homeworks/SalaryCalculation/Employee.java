@@ -10,7 +10,6 @@ public class Employee {
     public int hireYear ; //işe başlama yılı
     int currentYear = 2021;
 
-
     public Employee(String name, int salary,  int workHours, int hireYear) {
         this.salary = salary;
         this.name = name;

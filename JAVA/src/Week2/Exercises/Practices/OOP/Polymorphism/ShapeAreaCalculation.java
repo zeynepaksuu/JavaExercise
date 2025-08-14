@@ -40,9 +40,5 @@ public class ShapeAreaCalculation {
         double result = shape.calculateArea();
         System.out.println(result);
 
-
-
-
-
     }
 }

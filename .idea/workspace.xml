@@ -5,10 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3333a86-56eb-4cad-92fc-04da72f0e378" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Enums/Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Enums/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Enums/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Enums/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/NestedClasses/NestedClassMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/NestedClasses/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/NestedClasses/Outer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Records/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Records/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Records/RecordExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Records/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Sealed/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Sealed/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Sealed/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Sealed/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Sealed/SubCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/InnerClass/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/InnerClass/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/Records/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/Records/StudentsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/WeekEnums/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/WeekEnums/DaysTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/DateAPIExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/DateAPIExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/Practices/OOP/Polymorphism/ShapeAreaCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/Practices/OOP/Polymorphism/ShapeAreaCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA/src/Week2/Homeworks/SalaryCalculation/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/src/Week2/Homeworks/SalaryCalculation/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +39,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,17 +73,52 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccountTest.executor": "Run",
+    "Application.AnimalTest.executor": "Run",
     "Application.Array2Example.executor": "Run",
+    "Application.ArrayMethodMain.executor": "Run",
+    "Application.BankingSystem.executor": "Run",
+    "Application.BookSetTest.executor": "Run",
+    "Application.BookTest.executor": "Run",
+    "Application.Books.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.CarTest.executor": "Run",
     "Application.DateAPIExample.executor": "Run",
+    "Application.DaysTest.executor": "Run",
+    "Application.EmployeeTest.executor": "Run",
+    "Application.EnumTest.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.FilmFilter.executor": "Run",
+    "Application.Game.executor": "Run",
+    "Application.GenericsMain.executor": "Run",
+    "Application.HashMapTest.executor": "Run",
+    "Application.HospitalTest.executor": "Run",
+    "Application.LetterDesign.executor": "Run",
+    "Application.LetterFrequencyCalculator.executor": "Run",
+    "Application.LinkedHashMapTest.executor": "Run",
+    "Application.ListTest.executor": "Run",
+    "Application.LowerBoundedWildCard.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MapEntryTest.executor": "Run",
     "Application.MethodTest.executor": "Run",
+    "Application.MyListMain.executor": "Run",
+    "Application.NearestNumbers.executor": "Run",
     "Application.PalindromNumberExample.executor": "Run",
     "Application.PasswordValidation.executor": "Run",
+    "Application.ProductTest.executor": "Run",
+    "Application.QueueTest.executor": "Run",
+    "Application.RecordExamples.executor": "Run",
     "Application.ReversedStringExample.executor": "Run",
     "Application.RoundingNumbers.executor": "Run",
+    "Application.SetTest.executor": "Run",
+    "Application.ShapeAreaCalculation.executor": "Run",
+    "Application.StudentsMain.executor": "Run",
+    "Application.TreeMapTest.executor": "Run",
+    "Application.UpperBoundedWildCard.executor": "Run",
+    "Application.UserTest.executor": "Run",
+    "Application.WildCardsExample.executor": "Run",
+    "Application.keywordsTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -73,6 +132,31 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Week3.Homerworks.FilmCollectionFilter" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Exercises.MapExamples.MapSamples.BookTest" />
+      <module name="JavaExerciseCohorts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week3.Exercises.MapExamples.MapSamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b3333a86-56eb-4cad-92fc-04da72f0e378" name="Changes" comment="" />
@@ -113,6 +197,16 @@
           <url>file://$PROJECT_DIR$/JAVA/src/Week1/Exercises/Array2Example.java</url>
           <line>27</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA/src/Week2/Exercises/Practices/OOP/Inheritance/Example1/Book.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA/src/Week3/Homeworks/LetterDesign.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />
