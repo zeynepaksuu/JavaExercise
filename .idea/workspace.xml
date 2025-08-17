@@ -5,31 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3333a86-56eb-4cad-92fc-04da72f0e378" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Enums/Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Enums/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Enums/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Enums/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/NestedClasses/NestedClassMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/NestedClasses/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/NestedClasses/Outer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Records/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Records/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Records/RecordExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Records/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Sealed/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Sealed/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Sealed/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Sealed/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Sealed/SubCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/InnerClass/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/InnerClass/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/Records/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/Records/StudentsMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/WeekEnums/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/WeekEnums/DaysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/CheckTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/CheckifHopper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/CheckifSwim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/LambdasExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/LambdasExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/LambdasExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/LambdasExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/Lambdas/Lambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/Practices/OOP/Polymorphism/ShapeAreaCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/src/Week2/Exercises/Practices/OOP/Polymorphism/ShapeAreaCalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/Week2/Homeworks/SalaryCalculation/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/src/Week2/Homeworks/SalaryCalculation/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +25,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package-info" />
         <option value="Enum" />
         <option value="Record" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -94,6 +80,9 @@
     "Application.GenericsMain.executor": "Run",
     "Application.HashMapTest.executor": "Run",
     "Application.HospitalTest.executor": "Run",
+    "Application.LambdasExample.executor": "Run",
+    "Application.LambdasExample2.executor": "Run",
+    "Application.LambdasExample3.executor": "Run",
     "Application.LetterDesign.executor": "Run",
     "Application.LetterFrequencyCalculator.executor": "Run",
     "Application.LinkedHashMapTest.executor": "Run",
