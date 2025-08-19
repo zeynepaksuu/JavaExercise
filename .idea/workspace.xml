@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3333a86-56eb-4cad-92fc-04da72f0e378" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/CheckTrait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/CheckifHopper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/CheckifSwim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/LambdasExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/LambdasExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/LambdasExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/LambdasExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/Lambdas/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/Lambdas/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/FunctionalInterfaces/FunctionalInterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/FunctionalInterfaces/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/FunctionalInterfaces/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/MethodReference/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/MethodReference/MathOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/MethodReference/MethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/MethodReference/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/LambdaReference/Names.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,10 +74,12 @@
     "Application.Factorial.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.FilmFilter.executor": "Run",
+    "Application.FunctionalInterfaceExample.executor": "Run",
     "Application.Game.executor": "Run",
     "Application.GenericsMain.executor": "Run",
     "Application.HashMapTest.executor": "Run",
     "Application.HospitalTest.executor": "Run",
+    "Application.Lambda.executor": "Run",
     "Application.LambdasExample.executor": "Run",
     "Application.LambdasExample2.executor": "Run",
     "Application.LambdasExample3.executor": "Run",
@@ -90,6 +90,7 @@
     "Application.LowerBoundedWildCard.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MapEntryTest.executor": "Run",
+    "Application.MethodReferenceExample.executor": "Run",
     "Application.MethodTest.executor": "Run",
     "Application.MyListMain.executor": "Run",
     "Application.NearestNumbers.executor": "Run",
