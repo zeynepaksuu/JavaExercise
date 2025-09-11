@@ -1,0 +1,13 @@
+-- 5 UPDATE İŞLEMİ
+UPDATE employee SET name = 'Zeynep' WHERE id = 1;
+UPDATE employee SET birthday = '1946-07-25' WHERE name = 'Fan';
+UPDATE employee SET name = 'Mehmet' WHERE id = 5;
+UPDATE employee SET birthday = '1946-07-25' WHERE name = 'Towney';
+UPDATE employee SET email = 'vittivizzik@gmail.com' WHERE name = 'Lara';
+
+-- 5 DELETE İŞLEMİ
+DELETE employee WHERE id = 1;
+DELETE employee WHERE email = 'slycett5@feedburner.com';
+DELETE employee WHERE id = 5;
+DELETE employee WHERE birthday = '1946-07-25';
+DELETE employee WHERE name = 'Lara';
