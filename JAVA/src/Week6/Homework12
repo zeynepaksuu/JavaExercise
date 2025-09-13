@@ -1,0 +1,14 @@
+--Sorgu 1
+SELECT COUNT(*) AS filmler FROM film WHERE length > (SELECT AVG(length) FROM film);
+
+--Sorgu 2
+SELECT COUNT(*) AS filmler FROM film WHERE rental_rate = (SELECT MAX(rental_rate) FROM film);
+
+--Sorgu 3
+SELECT film_id, title, rental_rate, replacement_cost FROM film WHERE rental_rate = (SELECT MIN(rental_rate) FROM film) AND replacement_cost = (SELECT MIN(replacement_cost) FROM film);
+
+--Sorgu 4
+SELECT customer.customer_id, customer.first_name, customer.last_name, COUNT(payment.payment_id) satis
+FROM payment JOIN customer ON payment.customer_id = customer.customer_id
+GROUP BY customer.customer_id, customer.first_name, customer.last_name
+ORDER BY satis DESC;
