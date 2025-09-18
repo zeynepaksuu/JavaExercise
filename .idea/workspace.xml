@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3333a86-56eb-4cad-92fc-04da72f0e378" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/FunctionalInterfaces/FunctionalInterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/FunctionalInterfaces/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/FunctionalInterfaces/MathOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/MethodReference/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/MethodReference/MathOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/MethodReference/MethodReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Exercises/MethodReference/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA/src/Week5/Homeworks/LambdaReference/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week7/Exception/ExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week7/Exception/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week7/Exception/SubStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week7/Exception/ThrowingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week7/Exception/TryCatchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week7/Threads/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week7/Threads/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA/src/Week7/Threads/ThreadExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +71,7 @@
     "Application.DaysTest.executor": "Run",
     "Application.EmployeeTest.executor": "Run",
     "Application.EnumTest.executor": "Run",
+    "Application.ExceptionExample.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.FilmFilter.executor": "Run",
@@ -93,6 +94,7 @@
     "Application.MethodReferenceExample.executor": "Run",
     "Application.MethodTest.executor": "Run",
     "Application.MyListMain.executor": "Run",
+    "Application.Names.executor": "Run",
     "Application.NearestNumbers.executor": "Run",
     "Application.PalindromNumberExample.executor": "Run",
     "Application.PasswordValidation.executor": "Run",
@@ -104,7 +106,10 @@
     "Application.SetTest.executor": "Run",
     "Application.ShapeAreaCalculation.executor": "Run",
     "Application.StudentsMain.executor": "Run",
+    "Application.ThreadExample.executor": "Run",
+    "Application.ThrowingExample.executor": "Run",
     "Application.TreeMapTest.executor": "Run",
+    "Application.TryCatchExample.executor": "Run",
     "Application.UpperBoundedWildCard.executor": "Run",
     "Application.UserTest.executor": "Run",
     "Application.WildCardsExample.executor": "Run",
